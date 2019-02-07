@@ -1,5 +1,5 @@
-TypeScript Hello World Demo
-===========================
+TypeScript Soap Server and Client Demo
+======================================
 
 ```
 npm install
